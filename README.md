@@ -4,7 +4,7 @@ I’m a self-taught web developer focused on Typescript, React, and NextJS. I lo
 
 - 🌱 Learning: **TypeScript**, **Node.js**, and **CI/CD pipelines**  
 - 💬 Ask me about: JavaScript, web dev workflows, code organization  
-- 📫 How to reach me: [linkedin.com/in/skools‑here](https://www.linkedin.com) | [twitter.com/skools_here](https://twitter.com)
+
 
 ---
 
@@ -30,10 +30,3 @@ I’m a self-taught web developer focused on Typescript, React, and NextJS. I lo
 - Contributing to **OpenSource Projects**
 - Building **Projects that i like**  & DevOps skills
 
----
-
-<div align="center">
-  <a href="https://github.com/skools-here/github-readme-sponsors"><img src="https://img.shields.io/badge/Sponsor%20me‑lightgrey?logo=github" alt="Sponsor me"/></a>
-  &nbsp;
-  <a href="https://github.com/skools-here"><img src="https://img.shields.io/github/followers/skools‑here?style=social" alt="GitHub followers"/></a>
-</div>
