@@ -3,9 +3,8 @@
 </div>
 
 ### 👋 About Me
-I’m a self-taught web developer focused on JavaScript (ES6+), React, and Python. I love building educational content and contributing to open-source projects. Currently deep-diving into full‑stack development, DevOps fundamentals, and tooling like Docker & Git.
+I’m a self-taught web developer focused on Typescript, React, and NextJS. I love building educational content and contributing to open-source projects. Currently deep-diving into full‑stack development, DevOps fundamentals, and tooling like Docker & Git.
 
-- 🔭 Working on: **My personal portfolio** and open-source curriculum for The Odin Project  
 - 🌱 Learning: **TypeScript**, **Node.js**, and **CI/CD pipelines**  
 - 💬 Ask me about: JavaScript, web dev workflows, code organization  
 - 📫 How to reach me: [linkedin.com/in/skools‑here](https://www.linkedin.com) | [twitter.com/skools_here](https://twitter.com)
@@ -31,15 +30,8 @@ I’m a self-taught web developer focused on JavaScript (ES6+), React, and Pytho
 
 ### 🔭 What I’m Up To
 
-- Contributing to **The Odin Project curriculum**, improving foundational JS and Python lessons
-- Building **portfolio projects** to demonstrate full-stack & DevOps skills
-- Exploring **CI/CD pipelines** and automated testing with GitHub Actions
-
----
-
-### 📫 Get In Touch
-
-Feel free to connect with me on GitHub or LinkedIn. I'm always open to collaborating and learning from others!
+- Contributing to **OpenSource Projects**
+- Building **Projects that i like**  & DevOps skills
 
 ---
 
