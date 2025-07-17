@@ -13,8 +13,8 @@ I’m a self-taught web developer focused on Typescript, React, and NextJS. I lo
 | Frontend | Backend | Tools & Platforms |
 |---------|---------|-------------------|
 | React, HTML5, CSS3 | Node.js, Express | Git, Docker, VS Code |
-| Redux, Tailwind CSS | Python, Flask | GitHub Actions, Postman |
-| Bootstrap | SQLite, MongoDB | Linux, Bash Scripting |
+| Recoil, Tailwind CSS |Linux, Bash Scripting| GitHub Actions, Postman |
+| ShadCN | SQLite, MongoDB | Prisma ,Web Sockets |
 
 ---
 
