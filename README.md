@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&pause=1000&color=FF6600&width=600&lines=Hi,+I'm+skools-here!;Aspiring+Web+Developer+%7C+TS+%26+React + Builder" alt="Typing SVG" />
-</div>
 
 ### 👋 About Me
 I’m a self-taught web developer focused on Typescript, React, and NextJS. I love building educational content and contributing to open-source projects. Currently deep-diving into full‑stack development, DevOps fundamentals, and tooling like Docker & Git.
