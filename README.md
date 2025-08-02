@@ -2,7 +2,7 @@
 ### 👋 About Me
 I’m a self-taught web developer focused on Typescript, React, and NextJS. I love building educational content and contributing to open-source projects. Currently deep-diving into full‑stack development, DevOps fundamentals, and tooling like Docker & Git.
 
-- 🌱 Learning: **TypeScript**, **Node.js**, and **CI/CD pipelines**  
+- 🌱 Learning: **NextJS**, **Typescript**, and **CI/CD pipelines**  
 - 💬 Ask me about: JavaScript, web dev workflows, code organization  
 
 
